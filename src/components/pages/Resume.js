@@ -1,9 +1,19 @@
 import React from 'react';
 
+const styles = {
+  div: {
+    margin: "20px",
+    padding: "10px",
+  },
+  headingStyle: {
+    fontSize: '100px',
+  },
+};
+
 export default function Resume() {
   return (
     <div>
-      <h1>Resume</h1>
+      <h1 style={styles.headingStyle}>resume</h1>
       <p>
         Nunc pharetra finibus est at efficitur. Praesent sed congue diam.
         Integer gravida dui mauris, ut interdum nunc egestas sed. Aenean sed

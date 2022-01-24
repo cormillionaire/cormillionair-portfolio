@@ -1,0 +1,21 @@
+form {
+  margin: 20px;
+  padding: 10px;
+}
+
+h1 {
+  font-size: 100px!important;
+}
+
+.textArea {
+  height: 100px!important;
+}
+
+.btn {
+    background: #54A578!important;
+    color: white!important
+}
+
+.btn:hover {
+      background: #ffa682 !important;
+    }

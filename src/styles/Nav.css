@@ -17,3 +17,8 @@
 .navbar-collapse {
     justify-content: flex-end!important;
 }
+
+.navbar-nav .active {
+    color: #ffa682!important;
+    font-weight: bolder;
+}
