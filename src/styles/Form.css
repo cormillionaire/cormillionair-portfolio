@@ -2,6 +2,15 @@ form {
   margin: 20px;
   padding: 10px;
 }
+.error-text {
+  margin: 20px;
+  padding: 10px;
+  height: 40px;
+  width: auto;
+  background-color:#ffa682 ;
+  font: bolder;
+  color: white;
+}
 
 h1 {
   font-size: 100px!important;

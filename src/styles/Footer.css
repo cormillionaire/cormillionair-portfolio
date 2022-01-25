@@ -20,6 +20,21 @@ html, body {
     width: 100%;
     margin-bottom: auto;
 }
+.footer ul {
+    font-size: 40px;
+}
+
+.footer li {
+    margin: 0 1%;
+}
+
+.footer .nav-link {
+    color: #6ABD86;
+}
+
+.footer .nav-link:hover {
+    color: #FFA675;
+}
 
 .contact {
     height: 300px;
