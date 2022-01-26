@@ -51,7 +51,6 @@ function ContactForm() {
 
   return (
     <div>
-      <h1>contact</h1>
       <form className="form-floating">
         <div className="form-floating mb-3 ">
           <input
@@ -93,11 +92,13 @@ function ContactForm() {
           <button className="btn" type="button" onClick={handleFormSubmit}>Submit</button>
         </div>
       </form>
-      {errorMessage && (
-        <div>
-          <p className="error-text">{errorMessage}</p>
-        </div>
-      )}
+      {
+        errorMessage && (
+          <div>
+            <p className="error-text">{errorMessage}</p>
+          </div>
+        )
+      }
     </div>
   );
 }

@@ -4,12 +4,15 @@ form {
 }
 .error-text {
   margin: 20px;
-  padding: 10px;
+  padding: 4px 0px 0px 40px ;
   height: 40px;
   width: auto;
   background-color:#ffa682 ;
   font: bolder;
   color: white;
+  font-weight: bolder;
+  font-size: 20px;
+  text-justify: center;
 }
 
 h1 {
