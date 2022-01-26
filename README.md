@@ -20,7 +20,7 @@ Live Link: [cormillionaire portfolio](https://corn-tech-blog.herokuapp.com/)
 ## Usage
 Home page is about us, About is about me, portfolio has links to other project, contact allows you to submit a message to cormillionaire, and resume is skills and a downloadable resume
 
-![Porfolio Homepage]()
+![Porfolio Homepage](../images/new-portolfio.PNG)
 
 ## Tests
 No npm tests but 
