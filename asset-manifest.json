@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cormillionair-portfolio/static/css/main.656b4e37.css",
+    "main.js": "/cormillionair-portfolio/static/js/main.8a23052c.js",
+    "index.html": "/cormillionair-portfolio/index.html",
+    "main.656b4e37.css.map": "/cormillionair-portfolio/static/css/main.656b4e37.css.map",
+    "main.8a23052c.js.map": "/cormillionair-portfolio/static/js/main.8a23052c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.656b4e37.css",
+    "static/js/main.8a23052c.js"
+  ]
+}
