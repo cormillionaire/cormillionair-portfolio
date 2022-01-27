@@ -2,7 +2,7 @@
 ## Description
 This project a single page application that hosts cormillionaire's portfolio and developer information
 
-Live Link: [cormillionaire portfolio](https://corn-tech-blog.herokuapp.com/)
+Live Link: [cormillionaire portfolio](https://cormillionaire.github.io/cormillionair-portfolio/)
 
 ---
 ## Table of Contents
