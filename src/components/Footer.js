@@ -8,7 +8,7 @@ function Footer({ currentPage, handlePageChange }) {
       <li class="nav-item"><a href="mailto:corneliabherman@gmail.com" class="nav-link px-2 "><i class="fas fa-at"></i></a></li>
       <li class="nav-item"><a href="https://github.com/cormillionaire" class="nav-link px-2 "><i class="fab fa-github"></i></a></li>
       <li class="nav-item"><a href="https://www.linkedin.com/in/cornelia-herman/" class="nav-link px-2 "><i class="fab fa-linkedin-in"></i></a></li>
-      <li class="nav-item"><a href= {process.env.PUBLIC_URL +"/images/CorneliaHermanResume.pdf"} class="nav-link px-2 "><i class="far fa-file-pdf"></i></a></li>
+      <li class="nav-item"><a href="../images/CorneliaHermanResume.pdf" class="nav-link px-2 "><i class="far fa-file-pdf"></i></a></li>
       <li class="nav-item"><a href="https://stackoverflow.com/users/story/16311496" class="nav-link px-2 "><i class="fab fa-stack-overflow"></i></a></li>
       <li class="nav-item"><a href="#home" class="nav-link px-2 "><i class="fas fa-home"></i></a></li>
     </ul>

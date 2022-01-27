@@ -19,7 +19,7 @@ export default function Resume() {
   return (
     <div style={styles.div}>
       <h1 style={styles.headingStyle}>resume</h1>
-      <a href={process.env.PUBLIC_URL +"/images/CorneliaHermanResume.pdf"} class="nav-link px-2 " style={styles.resume}><i class="far fa-file-pdf"></i> download resume</a>
+      <a href="../images/CorneliaHermanResume.pdf" class="nav-link px-2 " style={styles.resume}><i class="far fa-file-pdf"></i> download resume</a>
       <h2>Development</h2>
       <ul className="skillsList">
         <li>Proficient with markup like HTML and Markdown</li>

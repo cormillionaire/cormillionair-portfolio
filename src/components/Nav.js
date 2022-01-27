@@ -6,7 +6,7 @@ function Nav({ currentPage, handlePageChange }) {
       <nav class="navbar navbar-expand-lg navbar-dark" role="navigation">
         <div class="container-fluid">
           <a class="navbar-brand" href="#about" onClick={() => handlePageChange('About')} className={currentPage === 'About' ? 'nav-link active' : 'nav-link'}>
-            <img src={process.env.PUBLIC_URL + "/cormillionaireLogoShort.png"} alt="cormillionaire" width="30" height="30" class="align-text-top"></img>
+            <img src="/cormillionaireLogoShort.png" alt="cormillionaire" width="30" height="30" class="align-text-top"></img>
             cormillionaire
           </a>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
