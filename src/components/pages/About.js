@@ -37,9 +37,9 @@ const styles = {
 export default function About() {
   return (
     <div style={styles.div}>
-      <img src="/cormillionaireLogo.png" alt="cormillionaire" style={styles.img}></img>
+      <img src={process.env.PUBLIC_URL + "/cormillionaireLogo.png"} alt="cormillionaire" style={styles.img}></img>
       <h1 style={styles.headingStyle}>about</h1>
-      <div><img src="../../../../images/CorneliaHermanProfile.jpg" style={styles.profileImg} alt="Photo of cormillionaire"></img>
+      <div><img src={process.env.PUBLIC_URL + "/images/CorneliaHermanProfile.jpg"} style={styles.profileImg} alt="Photo of cormillionaire"></img>
       <h2 style={styles.h2}>Personal</h2>
       <hr style={styles.hr}></hr>
       <p style={styles.p}>
